@@ -1,0 +1,1 @@
+"d:\food donation tracker\fooddonation tracker new\FoodDonationTracker\src\" ; if ($?) { gcc c1.c -o c1 } ; if ($?) { .\c1 }
